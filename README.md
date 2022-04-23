@@ -19,13 +19,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="15%" height="15%"/> 
+   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="10%" height="10%"/> 
  </a>
  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".NetCore" width="8%" height="8%"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".NetCore" width="5%" height="5%"/> 
  </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0" target="_blank" rel="noreferrer">
-   <img src="https://play-lh.googleusercontent.com/GWL18cM1Ixv7pHcDnFexNTtrTt2f45q4csWGNw-WWMTU2rsbFkiCy1FErMgtfmOgfMk" alt="ASP.NetCoreMVC" width="9%" height="9%"/> 
+   <img src="https://play-lh.googleusercontent.com/GWL18cM1Ixv7pHcDnFexNTtrTt2f45q4csWGNw-WWMTU2rsbFkiCy1FErMgtfmOgfMk" alt="ASP.NetCoreMVC" width="5%" height="5%"/> 
  </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio" target="_blank" rel="noreferrer">
    <img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeanaspnetwebapideveloper-mobile.png" alt="ASP.NetCore Web API" width="8%" height="8%"/> 
