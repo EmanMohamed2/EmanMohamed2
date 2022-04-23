@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="50" height="40"/> 
+   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="50%" height="50%"/> 
  </a>
  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
    <img src=" https://www.ryadel.com/wp-content/uploads/2018/11/asp-net-core-logo-735x300.png" alt=".NetCore" width="40" height="40"/> 
