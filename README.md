@@ -19,13 +19,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="40" height="40"/> 
+   <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" alt="C#" width="50" height="40"/> 
  </a>
  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
-   <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NetCore" width="40" height="40"/> 
+   <img src=" https://www.ryadel.com/wp-content/uploads/2018/11/asp-net-core-logo-735x300.png" alt=".NetCore" width="40" height="40"/> 
  </a>
   <a href="https://dotnet.microsoft.com/en-us/learn/aspnet" target="_blank" rel="noreferrer">
-   <img src="![image](https://user-images.githubusercontent.com/95544901/164872035-78ee7ef8-bf2a-441a-8965-d38729d84328.png)" alt="ASP.NetCore" width="40" height="40"/> 
+   <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="ASP.NetCore" width="40" height="40"/> 
  </a>
  </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
