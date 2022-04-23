@@ -25,16 +25,16 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".NetCore" width="5%" height="5%"/> 
  </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0" target="_blank" rel="noreferrer">
-   <img src="https://play-lh.googleusercontent.com/GWL18cM1Ixv7pHcDnFexNTtrTt2f45q4csWGNw-WWMTU2rsbFkiCy1FErMgtfmOgfMk" alt="ASP.NetCoreMVC" width="9%" height="9%"/> 
+   <img src="https://play-lh.googleusercontent.com/GWL18cM1Ixv7pHcDnFexNTtrTt2f45q4csWGNw-WWMTU2rsbFkiCy1FErMgtfmOgfMk" alt="ASP.NetCoreMVC" width="7%" height="7%"/> 
  </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio" target="_blank" rel="noreferrer">
-   <img src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" alt="ASP.NetCore Web API" width="8%" height="8%"/> 
+   <img src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" alt="ASP.NetCore Web API" width="5%" height="5%"/> 
  </a>
  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfpfMYeDbp47ob7fg7BNDj_YvdRoSpZjGUYaHz87-vSGg1HM-yWar0cPa_Va2JNYpav0&usqp=CAU" alt="SQL" width="10%" height="10%"/> 
  </a>
  <a href="https://www.sqlservertutorial.net/" target="_blank" rel="noreferrer">
-   <img src="https://www.thoughtco.com/thmb/75y7phKegDFeZJxod-ryS3kQJBk=/587x440/smart/filters:no_upscale()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg" alt="SQL Server" width="10%" height="10%"/> 
+   <img src="https://www.thoughtco.com/thmb/75y7phKegDFeZJxod-ryS3kQJBk=/587x440/smart/filters:no_upscale()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg" alt="SQL Server" width="7%" height="7%"/> 
  </a>
  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
    <img src="https://logovtor.com/wp-content/uploads/2020/09/swagger-supported-by-smartbear-logo-vector-xs.png" alt="Swagger" width="10%" height="10%"/> 
