@@ -39,6 +39,9 @@
  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
    <img src="https://logovtor.com/wp-content/uploads/2020/09/swagger-supported-by-smartbear-logo-vector-xs.png" alt="Swagger" width="10%" height="10%"/> 
  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%" height="5%"/> 
+ </a>
  <a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="5%" height="5%"/> 
  </a>
@@ -55,10 +58,6 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="5%" height="5%"/> 
 </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="5%" height="5%"/> 
- </a>
-
 </p>
 
 <p>
