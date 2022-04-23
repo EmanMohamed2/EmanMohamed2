@@ -27,7 +27,22 @@
   <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0" target="_blank" rel="noreferrer">
    <img src="https://play-lh.googleusercontent.com/GWL18cM1Ixv7pHcDnFexNTtrTt2f45q4csWGNw-WWMTU2rsbFkiCy1FErMgtfmOgfMk" alt="ASP.NetCoreMVC" width="9%" height="9%"/> 
  </a>
- </a> 
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio" target="_blank" rel="noreferrer">
+   <img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeanaspnetwebapideveloper-mobile.png" alt="ASP.NetCore Web API" width="8%" height="8%"/> 
+ </a>
+ <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfpfMYeDbp47ob7fg7BNDj_YvdRoSpZjGUYaHz87-vSGg1HM-yWar0cPa_Va2JNYpav0&usqp=CAU" alt="SQL" width="8%" height="8%"/> 
+ </a>
+ <a href="https://www.sqlservertutorial.net/" target="_blank" rel="noreferrer">
+   <img src="https://www.thoughtco.com/thmb/75y7phKegDFeZJxod-ryS3kQJBk=/587x440/smart/filters:no_upscale()/kisspng-microsoft-sql-server-windows-server-2008-r2-b47d7cc742ab406d87b638c3ecd3f598.jpg" alt="SQL Server" width="8%" height="8%"/> 
+ </a>
+ <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+   <img src="https://logovtor.com/wp-content/uploads/2020/09/swagger-supported-by-smartbear-logo-vector-xs.png" alt="Swagger" width="8%" height="8%"/> 
+ </a>
+ <a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="8%" height="8%"/> 
+ </a>
+
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="8%" height="8%"/> 
  </a> 
