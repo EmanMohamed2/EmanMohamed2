@@ -25,7 +25,7 @@
    <img src=" https://www.ryadel.com/wp-content/uploads/2018/11/asp-net-core-logo-735x300.png" alt=".NetCore" width="40" height="40"/> 
  </a>
   <a href="https://dotnet.microsoft.com/en-us/learn/aspnet" target="_blank" rel="noreferrer">
-   <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="ASP.NetCore" width="40" height="40"/> 
+   <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="ASP.NetCore" width="15%" height="15%"/> 
  </a>
  </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
